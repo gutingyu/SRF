@@ -13,7 +13,7 @@ You can install these libraries using pip:
 pip install numpy pandas scikit-learn matplotlib joblib
 
 Dataset
-The dataset used in this project should be in an Excel file and include the following columns:
+The dataset used in this project should include the following columns:
 Nitrate: The target variable.
 SST: Sea Surface Temperature.
 SSS: Sea Surface Salinity.
